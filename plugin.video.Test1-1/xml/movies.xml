@@ -1,15 +1,15 @@
 <dir>
-  <title>Trakt Trending Movies</title>
+  <title>Trending Movies</title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 <dir>
-  <title>Trakt Popular Movies</title>
+  <title>Popular Movies</title>
   <trakt>https://api.trakt.tv/movies/popular</trakt>
 </dir>
 
 <dir>
-  <title>Trakt Movie Watchlist</title>
+  <title>Movie Watchlist</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
