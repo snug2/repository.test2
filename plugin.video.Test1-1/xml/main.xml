@@ -1,7 +1,6 @@
-<xml>
   <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/movies.xml</link>
   </dir>
 
   <dir>
@@ -10,18 +9,18 @@
   </dir>
 
   <dir>
-    <title>Lists</title>
-    <link>file://lists.xml</link>
+    <title>Networks</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/networks.xml</link>
   </dir>
 
   <dir>
-    <title>Actors</title>
-    <link>file://actors.xml</link>
+    <title>My Stuff</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/to%20watch.xml</link>
   </dir>
 
   <dir>
-    <title>Music</title>
-    <link>file://music.xml</link>
+    <title>Screeners</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/screeners.xml</link>
   </dir>
 
   <dir>
@@ -40,4 +39,3 @@
     <thumbnail></thumbnail>
     <summary>Testings</summary>
   </plugin>
-</xml>

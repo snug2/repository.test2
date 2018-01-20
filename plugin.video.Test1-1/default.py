@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://raw.githubusercontent.com/snug2/repository.test2/master/test0/main%20test.xml"  # url of the root xml file
+root_xml_url = "https://raw.githubusercontent.com/snug2/repository.test2/master/test0/maintest2.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "6DB6EBA0E5BEFB5D"  # tvdb api key
 __builtin__.tmdb_api_key = "fc909fe55ba8d5b85e7a896794fc9319"  # tmdb api key
 __builtin__.trakt_client_id = "a2eca7716dd5343acdfd862c7c32e71dd5f6b3bcf685a769ac1fbc31d92c6bb1"  # trakt client id
