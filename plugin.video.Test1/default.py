@@ -22,10 +22,10 @@ import __builtin__
 # -----------------------
 # change these to suit your addons
 root_xml_url = "https://raw.githubusercontent.com/snug2/repository.test2/master/test0/main%20test.xml"  # url of the root xml file
-__builtin__.tvdb_api_key = "0629B785CE550C8D"  # tvdb api key
+__builtin__.tvdb_api_key = "6DB6EBA0E5BEFB5D"  # tvdb api key
 __builtin__.tmdb_api_key = "fc909fe55ba8d5b85e7a896794fc9319"  # tmdb api key
-__builtin__.trakt_client_id = "948c4e2514db4f2cca33e737f5e73ae213e537d344b9916983e53e3cc2a1b21c"  # trakt client id
-__builtin__.trakt_client_secret = "140369c2c981732a7b183db2e9300065629b8b7417a149a0c4e098ebee8f692e"  # trakt client secret
+__builtin__.trakt_client_id = "a2eca7716dd5343acdfd862c7c32e71dd5f6b3bcf685a769ac1fbc31d92c6bb1"  # trakt client id
+__builtin__.trakt_client_secret = "85ef9087f9888466cfe8a69eb484d331e2a12c1113de7d9679e4e842dab660fa"  # trakt client secret
 __builtin__.search_db_location = ""  # location of search db
 
 import os
