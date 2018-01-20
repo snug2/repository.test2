@@ -21,11 +21,11 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://raw.githubusercontent.com/snug2/madhead/master/main%20test2.xml"  # url of the root xml file
-__builtin__.tvdb_api_key = ""  # tvdb api key
-__builtin__.tmdb_api_key = "fc909fe55ba8d5b85e7a896794fc9319"  # tmdb api key
-__builtin__.trakt_client_id = ""  # trakt client id
-__builtin__.trakt_client_secret = ""  # trakt client secret
+root_xml_url = "https://raw.githubusercontent.com/snug2/repository.test2/master/test0/main%20test.xml"  # url of the root xml file
+__builtin__.tvdb_api_key = "0629B785CE550C8D"  # tvdb api key
+__builtin__.tmdb_api_key = "66e34e89e655538fecd4aca6dc820141"  # tmdb api key
+__builtin__.trakt_client_id = "948c4e2514db4f2cca33e737f5e73ae213e537d344b9916983e53e3cc2a1b21c"  # trakt client id
+__builtin__.trakt_client_secret = "140369c2c981732a7b183db2e9300065629b8b7417a149a0c4e098ebee8f692e"  # trakt client secret
 __builtin__.search_db_location = ""  # location of search db
 
 import os
@@ -183,6 +183,7 @@ def clear_cache():
             xbmc.translatePath(xbmcaddon.Addon().getSetting("cache_folder")),
             "artcache")
         koding.Delete_Folders(dest_folder)
+    xbmc.log("running hook:", xbmc.LOGNOTICE)
     run_hook("clear_cache")
 
 
