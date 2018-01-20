@@ -1,0 +1,41 @@
+  <dir>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>TV</title>
+    <link>file://tv.xml</link>
+  </dir>
+
+  <dir>
+    <title>Networks</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/networks.xml</link>
+  </dir>
+
+  <dir>
+    <title>My Stuff</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/to%20watch.xml</link>
+  </dir>
+
+  <dir>
+    <title>Screeners</title>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/screeners.xml</link>
+  </dir>
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+
+  <plugin>
+    <name>Testings</name>
+    <link>plugin://plugin.video.jenplugin/?action=developer</link>
+    <thumbnail></thumbnail>
+    <summary>Testings</summary>
+  </plugin>
