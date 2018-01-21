@@ -32,6 +32,14 @@
     <title>Search TMDB</title>
     <tmdb>search</tmdb>
   </dir>
+  
+  <dir>
+     <title>IPTV England M3u Update Playlist 15-12-2017</title>
+     <thumbnail></thumbnail>
+     <m3u>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/live%20test.xml</m3u>
+     <fanart></fanart>
+     <info> </info>
+  </dir>
 
   <plugin>
     <name>Testings</name>
