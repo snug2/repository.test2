@@ -1,6 +1,6 @@
   <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/snug2/repository.test2/master/test0/movies.xml</link>
   </dir>
 
   <dir>
